@@ -1,0 +1,6 @@
+{
+  "name": "CampusVote - Collegiate Democracy System",
+  "description": "Real-time collegiate general election monitoring, cryptographic quorum ledger, zero-knowledge ballot verification, and centralized ballot control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
